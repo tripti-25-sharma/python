@@ -5,3 +5,5 @@ student = {"name": "Tripti", "age": 20}
 
 for key, value in student.items(): 
   print(key, value)
+  for i in rsnge(1):
+    print(key, value)
